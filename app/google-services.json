@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490751184444",
+    "project_id": "mitadttrial",
+    "storage_bucket": "mitadttrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490751184444:android:74029bdc8bb3376d163d39",
+        "android_client_info": {
+          "package_name": "com.example.mitadttrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490751184444-sbu7d7kprjcjc8fuv8v55cq3udv2pid6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdxZuK8kH5cB2AhAPYir17153w5fwD4-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490751184444-sbu7d7kprjcjc8fuv8v55cq3udv2pid6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
